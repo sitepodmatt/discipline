@@ -1,0 +1,5 @@
+name: 'GithubDiscipline'
+description: 'Github discipline for projects'
+runs:
+  using: 'node12'
+  main: 'index.js'
